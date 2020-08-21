@@ -1,0 +1,15 @@
+Java Setup
+
+- Download Java 8 and run the .exe.
+- Download latest Java Development Kit (JDK)
+- Download Eclipse
+- In the Eclipse IDE, you'll see an option for the Eclipse marketplace. In the marketplace, search and add on "Spring Tools 4"
+
+SQL Setup
+
+- Search and Download MySQL Workbench
+- You may need to download the visual studio c++ redistributables.
+- Download XAMPP
+
+Angular
+Still figuring it out....
