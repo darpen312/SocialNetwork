@@ -12,4 +12,7 @@ SQL Setup
 - Download XAMPP
 
 Angular
-Still figuring it out....
+- Download Node.js https://nodejs.org/en/download/. Go to command prompt verify installation of npm by enter npm -v 
+- In command prompt enter the commend 'npm install -g @angular/cli'. this will install the angular command line interface
+- Download visual studio code. If an option comes up to download packages, download angular. 
+- Once downloaded, go file, open folder then navagate to C:\Programming\SocialNetworkProj\SocialNetwork and select the socialmediaapp
